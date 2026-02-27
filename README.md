@@ -1,5 +1,3 @@
-# Wizard-Duel
-
 # 🧙 Wizard Duel (JavaScript)
 
 A simple JavaScript program that simulates a duel between two wizards using Object-Oriented Programming (OOP).
